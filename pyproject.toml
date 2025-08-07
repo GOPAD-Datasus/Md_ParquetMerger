@@ -1,6 +1,6 @@
 [project]
-name = "md-parquetmerger"
-version = "0.1.0"
+name = "ParquetMerger"
+version = "1.0.0"
 description = ""
 authors = [
     {name = "morsoletodev",email = "106322393+morsoletodev@users.noreply.github.com"}

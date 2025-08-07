@@ -1,1 +1,1 @@
-from merger import parquet_merger
+from .merger import parquet_merger
